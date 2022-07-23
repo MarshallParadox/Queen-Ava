@@ -967,7 +967,7 @@ class SpeedtestResults(object):
         upload = int(round(self.upload / 1000.0, 0))
 
         # Build the request to send results back to speedtest.net
-        # We use a list instead of a dict because the API expects parameters
+        # We use a list instead of  dict because the API expects parameters
         # in a certain order
         api_data = [
             'recommendedserverid=%s' % self.server['id'],
