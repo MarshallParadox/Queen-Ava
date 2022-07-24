@@ -114,7 +114,7 @@ From the first device you need to install Queen Ava Bot.`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MarshallParadox/QueenAva)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MarshallParadox/Queen-Ava)
 
 
 ## F.A.Q
